@@ -91,7 +91,7 @@
 
 }
 .aboutImg{
-    background-image: url(image8.jpg);
+    background-image: url(img/image8.jpg);
     background-size: cover;
     
 }
@@ -167,14 +167,14 @@ font-size: 20px
 background-size: cover;
 }
 .img1{
-    background-image: url(image4.jpg)
+    background-image: url(img/image4.jpg)
 }
 .img2{
-    background-image: url(images19.jpg);
+    background-image: url(img/images19.jpg);
 background-size:100% 100%;
 }
 .img3{
-    background-image: url(colombia-coffee-tour.jpg);
+    background-image: url(img/colombia-coffee-tour.jpg);
 background-size:100% 100%;
 }
 .text2{
@@ -230,23 +230,23 @@ label{
 }
 
 .imgSl:nth-of-type(1){
-    background-image: url(image11.jpg);
+    background-image: url(img/image11.jpg);
     background-size: 100% 100%
 }
 .imgSl:nth-of-type(2){
-    background-image: url(image13.jpg);
+    background-image: url(img/image13.jpg);
     background-size: 100% 100%
 }
 .imgSl:nth-of-type(3){
-    background-image: url(image14.jpg);
+    background-image: url(img/image14.jpg);
     background-size: 100% 100%
 }
 .imgSl:nth-of-type(4){
-    background-image: url(image15.jpg);
+    background-image: url(img/image15.jpg);
     background-size: 100% 100%
 }
 .imgSl:nth-of-type(5){
-    background-image: url(image16.jpg);
+    background-image: url(img/image16.jpg);
     background-size: 100% 100%
 }
 .prv_b{
@@ -271,11 +271,11 @@ label{
     opacity:0.6;
 }
 .prv_b{
-    background:url(prv.png) no-repeat;
+    background:url(img/prv.png) no-repeat;
     }
 .nxt_b{
     right:10px;
-    background:url(nxt.png) no-repeat;
+    background:url(img/nxt.png) no-repeat;
     }
 
 .section{
@@ -286,7 +286,7 @@ label{
     color:rgb(185, 140, 98)
 }
 .section:nth-of-type(1){
-    background-image: url(image6.jpg);
+    background-image: url(img/image6.jpg);
     background-size: 100% 100%
 }
 .section:nth-of-type(2){

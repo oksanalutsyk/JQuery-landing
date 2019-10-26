@@ -1,5 +1,4 @@
 $(function () {
-    // можна і on
     //Анімація при кліку на пункти меню
     $('.menu-link').each(function (index, element) {
         $(element).click(function () {
@@ -10,15 +9,7 @@ $(function () {
             }, 1400)
         })
     })
-    // Майже те саме
-    // $('.menu -link').on('click', function(){
-    //     let id = $(this).attr('href');
-    //     let top = $(id).offset().top;
-    //     $('html').animate({
-    //         scrollTop:top
-    //     },1400)
-    // })
-
+ 
     // Зміна 'стану' dots при click на них
     $('.slider-dots_item').each(function (index, element) {
         $(element).click(function () {
